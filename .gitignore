@@ -1,0 +1,5 @@
+client_session_key.aes
+.stack-work/
+fortune-api.cabal
+stack.yaml*
+.dir-locals.el
