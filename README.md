@@ -3,7 +3,7 @@
 Simple API for the fortune program, using the Yesod framework. Surely a
 completely overkill use of Yesod, but its a very basic example of an instance of
 Yesod and it works. Based on the minimal scaffolding from 
-[https://github.com/yesodweb/stack-templates](here).
+[here](https://github.com/yesodweb/stack-templates).
 
 ## API Usage
 
@@ -23,7 +23,7 @@ are requested the length is the maximum length in characters of fortunes which
 will be considered to be short.  In case long fortunes are requested then the
 length is a minimum.  Without any parameters offensive defaults to no. Set
 offensive equal to yes if you only want potentially offensive fortunes. See
-[https://linux.die.net/man/6/fortune](man fortune) for more details.
+[man fortune](https://linux.die.net/man/6/fortune) for more details.
 
 ## Example
 
